@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *automation with cypress framework*
 
-- 👯 I’m looking to collaborate on *projects that require improvements in the quality of their product*
+- 🤝 I’m looking to collaborate on *projects that require improvements in the quality of their product*
 
 - 💬 Ask me about *agile frameworks, quality assurance*
 
