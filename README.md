@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as *quality assurance engineer.*
 
-- 🌱 I’m currently learning *automation with Playwright framework*
+- 🌱 I’m currently learning *AI vibecoding*
 
 - 🤝 I’m looking to collaborate on *projects that require improvements in the quality of their product*
 
