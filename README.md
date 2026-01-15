@@ -9,9 +9,5 @@
 
 - 💬 Ask me about *quality assurance, automation, agile frameworks*
 
-- 📫 How to reach me *mariano.sosa444@gmail.com*
+- 📫 How to reach me *qa@marianos.cv*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mariano-agustin-sosa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mariano-agustin-sosa/" height="30" width="40" /></a>
-</p>
