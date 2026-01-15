@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Mariano Sosa</h1>
-<h3 align="center">A passionate quality assurance engineer with 12 years of overall experience in quality assurance, agile delivery, and team leadership with ISTQB, Scrum Master and SAFe agile certifications</h3>
+<h3 align="center">A passionate quality assurance engineer with 14 years of overall experience in quality assurance, agile delivery, and team leadership with ISTQB, Scrum Master and SAFe agile certifications</h3>
 
 - 🔭 I’m currently working as *quality assurance engineer.*
 
